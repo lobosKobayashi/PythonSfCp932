@@ -1,0 +1,21 @@
+ *.bak
+*.bk*
+*.out
+*.pyc
+*.pvl
+*.swp
+*.txt
+
+__t*
+_t*
+
+checkPep8.py
+rctest.py
+temp.py
+tiny_prolog.py
+__tmp.py
+_tmC.py
+
+bkup/
+
+!ToDoAndBugList.txt
